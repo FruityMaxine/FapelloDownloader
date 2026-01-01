@@ -58,7 +58,7 @@ FapelloDownloader/
 <a name="简体中文"></a>
 ## 🇨🇳 简体中文
 
-一个专业、模块化且高效的 Python 命令行工具，用于从 Fapello 下载图片。支持自动解析用户 ID、多线程下载以及漂亮的终端界面。
+一个专业、模块化且高效的 Python 命令行工具，用于从 [Fapello](https://fapello.to/) 下载图片。支持自动解析用户 ID、多线程下载以及漂亮的终端界面。
 
 ### ✨ 功能特点
 
