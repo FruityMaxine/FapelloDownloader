@@ -7,7 +7,7 @@
 <a name="english"></a>
 ## 🇬🇧 English
 
-A professional, modular, and efficient Python command-line tool to download images from Fapello. It features automatic user ID resolution, multi-threaded downloading, and a beautiful terminal UI.
+A professional, modular, and efficient Python command-line tool to download images from [Fapello](https://fapello.to/). It features automatic user ID resolution, multi-threaded downloading, and a beautiful terminal UI.
 
 ### ✨ Features
 
